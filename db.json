@@ -2,7 +2,7 @@
   "user": [
     {
       "id": 1,
-      "name": "vimal",
+      "name": "viamlraj",
       "email": "vimal@outlook.com"
     },
     {
@@ -19,11 +19,6 @@
       "name": "vijay ",
       "email": "vijay@gamil.com",
       "id": 4
-    },
-    {
-      "name": "vinoth",
-      "email": "vinotth@gmail.com",
-      "id": 5
     }
   ]
 }
