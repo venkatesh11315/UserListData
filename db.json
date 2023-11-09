@@ -1,0 +1,29 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "vimal",
+      "email": "vimal@outlook.com"
+    },
+    {
+      "name": "vengatesh",
+      "email": "venkatesh11315@outlook.com",
+      "id": 2
+    },
+    {
+      "name": "ajeeth",
+      "email": "ajeeth@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "vijay ",
+      "email": "vijay@gamil.com",
+      "id": 4
+    },
+    {
+      "name": "vinoth",
+      "email": "vinotth@gmail.com",
+      "id": 5
+    }
+  ]
+}
